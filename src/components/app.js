@@ -24,7 +24,7 @@ function App() {
         </div>
         <div id='footer'>
           <p>基于&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
-          <p>Copyright&nbsp;&copy;&nbsp;2022&nbsp;-&nbsp;至今&nbsp;<Link to='https://blog.happyking.top/about' text='欢乐小王' />&nbsp;|&nbsp;Powered by&nbsp;<Link to='https://netlify.com' text='Netlify' /></p>
+          <p>Copyright&nbsp;&copy;&nbsp;2022&nbsp;-&nbsp;至今&nbsp;<Link to='https://yscblog.top/' text='微博客' />&nbsp;|&nbsp;Powered by&nbsp;<Link to='https://netlify.com' text='Netlify' /></p>
         </div>
       </div>
     </>
