@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'HappyKing 站点监测',
+  SiteName: 'YSC 站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1941989-8f83645b9a3dd82c818d29f7',
+    'ur2110464-e9539e97fc354c104fe48c31',
   ],
 
   // 日志天数
@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.happyking.top/'
+      url: 'https://www.yscblog.top/'
     },
     {
       text: '博客',
-      url: 'https://blog.happyking.top/'
+      url: '#'
     },
   ],
 };
